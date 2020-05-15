@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYmlnY2hhbmNlIiwiYSI6ImNrYTdzanRxaTA2OTIyc3A0eGtma203ZmEifQ.dB-CW2P9Q4T5C586M_9SLw</string>
+</resources>
